@@ -55,3 +55,7 @@ Dark has park mark.
 Dark has park cross.
 
 Dark has major.
+
+Dark is base on Gain.
+
+Dark is sense gain.
