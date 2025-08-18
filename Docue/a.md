@@ -65,4 +65,4 @@ The spell is:
 "D" for Dino Lane.
 "a" for any class.
 "r" for radius total.
-"k" for kinded time.
+"k" for kind time.
