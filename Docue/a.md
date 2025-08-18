@@ -59,3 +59,10 @@ Dark has major.
 Dark is base on Gain.
 
 Dark is sense gain.
+
+Dark word has spell.
+The spell is:
+"D" for Dino Lane.
+"a" for any class.
+"r" for radius total.
+"k" for kinded time.
