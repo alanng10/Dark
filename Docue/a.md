@@ -1,6 +1,6 @@
 # Dark
 
-Dark is sense general and sense level.
+Dark is sense gene and sense leve.
 
 Dark is park dark.
 
