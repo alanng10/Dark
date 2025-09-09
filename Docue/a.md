@@ -60,7 +60,7 @@ Dark is base on Gain.
 
 Dark is sense gain.
 
-Dark tier is sense tier. 
+Dark tier is sense tier.
 
 Dark leve is sense leve.
 
