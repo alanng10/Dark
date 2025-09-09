@@ -62,7 +62,7 @@ Dark is sense gain.
 
 Dark tier is sense tier.
 
-Dark leve is sense leve. 
+Dark leve is sense leve.
 
 Dark word has spell.
 The spell is:
