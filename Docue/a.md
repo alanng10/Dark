@@ -60,9 +60,9 @@ Dark is base on Gain.
 
 Dark is sense gain.
 
-Dark gene is sense gene.
+Dark tier is sense tier.
 
-Dark leve is sense leve.
+Dark leve is sense leve. 
 
 Dark word has spell.
 The spell is:
