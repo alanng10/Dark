@@ -58,7 +58,7 @@ Dark has major.
 
 Dark is base on Gain.
 
-Dark is sense gain. 
+Dark is sense gain.
 
 Dark tier is sense tier.
 
