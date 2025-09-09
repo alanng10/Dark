@@ -1,6 +1,6 @@
 # Dark
 
-Dark is sense gene and sense leve.
+Dark is sense gene.
 
 Dark is park dark.
 
