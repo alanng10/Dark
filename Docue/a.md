@@ -1,6 +1,6 @@
 # Dark
 
-Dark is sense gene.
+Dark is sense park.
 
 Dark is park dark.
 
